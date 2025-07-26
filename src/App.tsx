@@ -1,7 +1,11 @@
-import React from "react";
+import React from 'react'
 
-function App() {
-  return <div></div>;
+const App = () => {
+  return (
+    <div className='centerChild h-screen'>
+      
+    </div>
+  )
 }
 
-export default App;
+export default App
