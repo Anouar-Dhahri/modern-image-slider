@@ -1,4 +1,4 @@
-export const descriptions = [
+export const descriptions: string[] = [
   "Earth, our home planet, is the third from the Sun and the only known celestial body to support life. It's a dynamic, rocky planet with a diverse surface of land, water, and atmosphere. Earth is characterized by its unique features like liquid water, a protective atmosphere, and a magnetic field. It orbits the Sun in approximately 365.25 days, and rotates on its axis in roughly 24 hours, creating day and night cycles.",
 
   "Saturn is the sixth planet from the Sun and the second-largest in our solar system. It's a gas giant primarily composed of hydrogen and helium. Saturn is famous for its prominent ring system, which is made of icy particles and rocks. It also boasts a multitude of moons, including Titan, which has a dense atmosphere and is a potential site for extraterrestrial life.",
